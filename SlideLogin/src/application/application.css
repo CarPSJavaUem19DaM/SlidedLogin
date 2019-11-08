@@ -1,0 +1,16 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.pane1{
+    -fx-background-image: url("img/1.jpg"); /*Como es .img solo ponemos esa carpeta*/ 
+}
+.pane2{
+    -fx-background-image: url("img/2.jpg"); 
+}
+.pane3{
+    -fx-background-image: url("img/3.jpg"); 
+}
+.pane4{
+    -fx-background-image: url("img/4.jpg"); /*"../img/4.jpg"*/
+}
+.gradient{
+	-fx-background-color: linear-gradient(#120ecf, #22c4e0);
+	}
